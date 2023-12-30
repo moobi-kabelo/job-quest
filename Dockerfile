@@ -6,11 +6,9 @@ ENV NODE_ENV=production
 
 WORKDIR /job-quest
 
-COPY package*.json nx.json ./
+COPY . .
 
 RUN npm ci
-
-COPY . .
 
 RUN npx nx build --prod
 
