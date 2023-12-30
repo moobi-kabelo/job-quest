@@ -1,4 +1,4 @@
-FROM node:18.4.0-alpine3.18
+FROM node:18-alpine3.18
 
 ENV PORT=4200
 
