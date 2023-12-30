@@ -2,7 +2,7 @@
   <h1>Job Quest</h1>
 </div>
 <p align="center">
-Streamlines job searching and recruitment, with an intuitive interface connection employees and candidates for efficient hiring.
+🚀 Streamlines job searching and recruitment, with an intuitive interface connecting employees and candidates for efficient hiring.
 </p>
 
 <p align="center">
