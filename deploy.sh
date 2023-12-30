@@ -1,0 +1,1 @@
+gcloud run deploy job-quest --port 4200 --allow-unauthenticated --max-instances=5 --region=us-central1 --source=.
